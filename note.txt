@@ -1,0 +1,15 @@
+192.168.28.84
+user: IR
+pass: uit202411
+
+- "SSH:
+- AWS
+- Host Web
+- Xử lý dữ liệu:
++ Lên trên server chạy code: có thể dùng VS -> "SSH"
+
+-" Docker"
+
+indexer:
+- Lucene
+- FAIRR
